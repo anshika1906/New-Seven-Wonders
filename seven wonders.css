@@ -1,0 +1,91 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato" , sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+    
+    }
+    .pimg1{
+        background-image: url(https://i.postimg.cc/Pqpr3Rpv/wp2115237.jpg);
+        min-height: 100%;
+    }
+    
+    .pimg2{
+        background-image: url(https://i.postimg.cc/HsdnYzKF/Colosseum-Rome-Italy.webp
+    );
+        min-height: 100%;
+    }
+    
+    .pimg3{
+        background-image: url(https://i.postimg.cc/TY0wpmv1/El-Castillo-pyramid-plaza-Toltec-state-Yucatan.webp);
+        min-height: 100%;
+    }
+    
+    .pimg4{
+        background-image: url(https://i.postimg.cc/gjq0yLwM/Great-Wall-of-China-Beijing.webp);
+        min-height: 100%;
+    }
+    
+    .pimg5{
+        background-image: url(https://i.postimg.cc/nhLL7znk/Khaznah-Petra-Jordan.webp);
+        min-height: 100%;
+    }
+    
+    .pimg6{
+        background-image: url(https://i.postimg.cc/zGPGkrB1/Machu-Picchu.webp);
+        min-height: 100%;
+    }
+    .pimg7{
+        background-image: url(https://i.postimg.cc/x8SCb3dJ/statue-Christ-the-Redeemer-Rio-de-Janeiro.webp);
+        min-height: 100%;
+    }
+    
+    .pimg8{
+        background-image: url(https://i.postimg.cc/8khsg9yh/Taj-Mahal-Agra-India.webp);
+        min-height: 100%;
+    }
+    .ptext{
+        font-weight: bolder;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        text-align: center;
+        font-size: 27px;
+        letter-spacing: 8px;
+        text-transform: uppercase;
+        color: wheat;
+        
+        
+    }
+    .textbg{
+    /*     background: lightblue; */
+        color: #141313;
+        padding: 20px; 
+    }
+    .sec{
+        padding: 50px 80px;
+        text-align: center;
+        background-color: whitesmoke;
+        color: rgb(76, 76, 125);
+    }
+    /* .sec-1{
+        background-color: whitesmoke;
+        color: rgb(76, 76, 125);
+    }
+    .sec-2{
+        background-color: whitesmoke;
+        color: rgb(76, 76, 125);
+    } */
+    
+    
+    
+    .pimg1,.pimg2,.pimg3,.pimg4,.pimg5,.pimg6,.pimg7,.pimg8{
+        position: relative;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
